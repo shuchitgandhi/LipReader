@@ -1,4 +1,4 @@
-//Developed By Yash Shah
+//Developed By Shuchit Gandhi
 //TrackFaces.c
 //
 

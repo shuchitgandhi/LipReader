@@ -1,5 +1,4 @@
-//Developed By Yash Shah
-//capture.h
+//Developed By Shuchit Gandhi
 
 
 
